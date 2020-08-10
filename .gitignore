@@ -3,5 +3,5 @@
 
 # No upload dataset
 /data/
-!/tmp/.gitkeep
+!/data/.gitkeep
 
